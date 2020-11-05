@@ -9,5 +9,8 @@ echo "Lets subtract 2 numbers"
 ((sumResult=x-y))
 echo $sumResult
 echo "Lets multiply 2 numbers"
-((mulResult=x-y))
+((mulResult=x*y))
 echo $mulResult
+echo "Lets divide 2 numbers"
+((divResult=x/y))
+echo $divResult
