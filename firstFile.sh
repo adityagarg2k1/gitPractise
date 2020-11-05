@@ -6,5 +6,8 @@ read -p "Enter number2=> " y
 ((sum=x+y))
 echo $sum
 echo "Lets subtract 2 numbers"
-((subResult=x-y))
-echo $subResult
+((sumResult=x-y))
+echo $sumResult
+echo "Lets multiply 2 numbers"
+((mulResult=x-y))
+echo $mulResult
